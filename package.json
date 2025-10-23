@@ -1,6 +1,10 @@
 {
-  "name": "aternos-bot",
+  "name": "discord-bot",
   "version": "1.0.0",
+  "main": "status_bot.js",
+  "scripts": {
+    "start": "node status_bot.js"
+  },
   "dependencies": {
     "discord.js": "^14.14.1",
     "minecraft-protocol": "^1.43.0"
