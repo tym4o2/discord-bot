@@ -97,4 +97,4 @@ client.on('messageCreate', async (message) => {
 });
 
 process.removeAllListeners('warning');
-client.login('TOKEN');
+client.login('MTQzMDkzMzE2NDg4ODU1OTcyMA.GiIAbS.auUkrLlFN-yIik7msa3JuAJ_muivt00F0FGPU0');
