@@ -97,4 +97,4 @@ client.on('messageCreate', async (message) => {
 });
 
 process.removeAllListeners('warning');
-client.login('MTQzMDkzMzE2NDg4ODU1OTcyMA.GiIAbS.auUkrLlFN-yIik7msa3JuAJ_muivt00F0FGPU0');
+client.login('MTQzMDkzMzE2NDg4ODU1OTcyMA.G6ZRuS.UqJWMZxcv_w1ZXBxRmpgO-kzjXn2ZFD0Xrm5fE');
