@@ -1,0 +1,8 @@
+{
+  "name": "aternos-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "minecraft-protocol": "^1.43.0"
+  }
+}
